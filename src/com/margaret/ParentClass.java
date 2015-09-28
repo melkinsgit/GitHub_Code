@@ -11,8 +11,5 @@ public class ParentClass {
     LittleNoise.roar();
     OtherNoise.roar();
     NotMuchNoise.roar();
-    LittleNoise.roar();
-    NotMuchNoise.roar();
-    NotMuchNoise.roar();
     }
 }
