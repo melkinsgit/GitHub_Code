@@ -1,5 +1,7 @@
 package com.margaret;
 
+import javax.print.attribute.standard.MediaSize;
+
 public class ParentClass {
 
     public static void main(String[] args) {
@@ -11,5 +13,6 @@ public class ParentClass {
     LittleNoise.roar();
     OtherNoise.roar();
     NotMuchNoise.roar();
+    OtherNoise.roar();
     }
 }
